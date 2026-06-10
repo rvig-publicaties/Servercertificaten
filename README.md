@@ -5,5 +5,5 @@ Vandaag, woensdag 10 juni 2026, zijn de volgende public keys gepubliceerd:
   3.  lap_rap_reis_idm_diginetwerk_net [GELDIG VAN: 2026-05-21 T/M 2026-12-06]
 
 **LET OP:**
-Deze certificaten zijn nog maar +/- een half jaar geldig!
+Deze certificaten zijn nog maar **200** dagen geldig!
 Zorg dat uw IT-beheerder deze publieke sleutels tijdig vertrouwt om de verbinding met het ReIS-serviceplatform te garanderen.
