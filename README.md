@@ -1,4 +1,11 @@
-Vandaag, woensdag 10 juni 2026, zijn de volgende public keys gepubliceerd:
+Vandaag, dinsdag 16 juni, zijn de volgende public keys gepubliceerd:
+
+  1.  nprportaal_idp_idm_diginetwerk_net [GELDIG VAN: 2026-05-18 T/M 2026-12-03]
+  2.  prdportaal_idp_idm_diginetwerk_net [GELDIG VAN: 2026-05-18 T/M 2026-12-03]
+
+----------------------------------------------------------------------------
+
+Op woensdag 10 juni 2026 zijn de volgende public keys gepubliceerd:
 
   1.  rap_reis_idm_diginetwerk_net.crt [GELDIG VAN: 2026-05-27 T/M 2026-12-12]
   2.  api_reis_idm_diginetwerk_net.crt [GELDIG VAN: 2026-05-27 T/M 2026-12-12]
